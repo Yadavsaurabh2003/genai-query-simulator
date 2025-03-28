@@ -1,1 +1,0 @@
-# genai-query-simulator
